@@ -1,6 +1,6 @@
 import imp
 from numpy import tensordot
-from BlindMIUtil import *
+from BlindMI_Pre import *
 from dataLoader import *
 import tensorflow as tf
 from tensorflow.keras.models import load_model
